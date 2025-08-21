@@ -1,2 +1,2 @@
-# Python-Basic-Assignment-01-Module-02
-Python Basic Assignment
+# Python-Basic
+Python Module 02
